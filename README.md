@@ -70,3 +70,28 @@ trajectory in the British music market.
 - pytrends (Google Trends API)
 - Jupyter Notebook
 - Git / GitHub
+
+
+### Other Resources: 
+
+[Markdown for Jupyter notebooks cheatsheet](https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet) <br> 
+^Markdown Notation 
+
+[Table Visualization - pandas documentation](https://pandas.pydata.org/docs/dev/user_guide/style.html) <br> 
+^For formatting table output in Jupyter notebook using python code  
+
+[Matplotlib pyplot bar](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.bar.html) <br> 
+[Matplotlib pyplot barh](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.barh.html) <br> 
+^How to plot bar chart 
+
+[Matplotlib pyplot plot](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html)  <br> 
+^How to plot line graph 
+
+[Real Python linear regression in Python](https://realpython.com/linear-regression-in-python/) <br> 
+[Scikit learn for Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html) <br> 
+[Codecademy multiple linear regression cheatsheet](https://www.codecademy.com/learn/linear-regression-mssp/modules/multiple-linear-regression-mssp/cheatsheet) <br> 
+[GitHub ML reg1](https://tung-dn.github.io/prog_ML_reg1.html) <br> 
+^How to do a simple linear regression and multiple regression (*note: had help from AI with the code for multiple regression due to it being more difficult)  
+
+[Matplotlib pie and donut labels](https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_and_donut_labels.html) <br> 
+^How to plot a pie chart 
